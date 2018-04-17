@@ -1,2 +1,2 @@
 # PrivateSpecs
-a Private Spec Repo
+A Private Spec Repo
